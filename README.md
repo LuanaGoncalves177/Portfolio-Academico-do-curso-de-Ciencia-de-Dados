@@ -1,5 +1,3 @@
-# Python
-
 # Portfólio Acadêmico — Ciência de Dados
 
 Repositório dos trabalhos e projetos do curso de pós-graduação em Ciência de Dados.
