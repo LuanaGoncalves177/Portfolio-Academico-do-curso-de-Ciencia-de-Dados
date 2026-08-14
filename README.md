@@ -6,3 +6,4 @@ Repositório dos trabalhos e projetos do curso de pós-graduação em Ciência d
 
 1. **Exercício 01:** Cálculo de consumo médio de combustível.
 2. **Exercício 02:** Função para calcular o valor de uma compra.
+3. **1ª Lista de exercício de Python - 14/08/26. 
