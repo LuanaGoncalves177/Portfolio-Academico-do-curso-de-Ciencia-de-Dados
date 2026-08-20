@@ -2,7 +2,7 @@
 
 Repositório dos trabalhos e projetos do curso de pós-graduação em Ciência de Dados.
 
-## Uploads (09/08/2026)
+## Uploads - Conteúdo
 
 1. **Exercício 01:** Cálculo de consumo médio de combustível. - 09/08/2026
 2. **Exercício 02:** Função para calcular o valor de uma compra. - 09/08/2026
