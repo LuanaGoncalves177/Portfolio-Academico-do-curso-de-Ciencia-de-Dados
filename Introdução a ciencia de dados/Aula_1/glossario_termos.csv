@@ -1,0 +1,21 @@
+﻿Termo,Definição
+Data Science,"Campo interdisciplinar que extrai insights de dados usando estatística, programação e conhecimento de domínio"
+Dataset,"Conjunto de dados organizados, geralmente em formato tabular"
+DataFrame,Estrutura de dados tabular do Pandas (linhas e colunas)
+CSV,Comma-Separated Values - formato de arquivo texto para dados tabulares
+API,Application Programming Interface - interface para comunicação entre sistemas
+Machine Learning,Ramo da IA onde algoritmos aprendem padrões a partir de dados
+EDA,Exploratory Data Analysis - análise exploratória de dados
+Outlier,Valor atípico que se desvia significativamente da maioria dos dados
+Null/NaN,Valor ausente ou missing em um dataset
+Feature,Variável ou atributo usado em modelos preditivos
+Target,Variável que se deseja prever (variável dependente)
+Overfitting,"Quando modelo se ajusta demais aos dados de treino, perdendo generalização"
+Jupyter Notebook,"Ambiente interativo para código, visualizações e texto"
+Pandas,Biblioteca Python para manipulação e análise de dados
+NumPy,Biblioteca Python para computação numérica
+Matplotlib,Biblioteca Python para criação de visualizações
+Scikit-learn,Biblioteca Python para machine learning
+Web Scraping,Técnica de extração de dados de websites
+LGPD,Lei Geral de Proteção de Dados (Brasil)
+Kaggle,Plataforma de competições e datasets de data science

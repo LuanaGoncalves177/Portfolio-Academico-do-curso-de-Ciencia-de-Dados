@@ -1,0 +1,17 @@
+﻿Termo,Definição
+Algoritmo,Conjunto de regras/procedimentos que o modelo usa para aprender
+Acurácia,Percentual de previsões corretas
+Classificação,Prever categoria/classe (ex: spam/não-spam)
+Cross-validation,Validação cruzada: testar em múltiplas divisões dos dados
+Feature,Variável preditora/atributo usado para fazer previsões
+F1-Score,Média harmônica entre precision e recall
+Hyperparâmetro,Configuração definida antes do treino (ex: número de árvores)
+Label,Rótulo/resposta correta nos dados de treino
+Modelo,Algoritmo treinado que faz previsões
+Overfitting,Modelo muito complexo que decora treino mas não generaliza
+Precision,"Das previsões positivas, quantas eram realmente positivas"
+Recall,"Dos casos positivos reais, quantos o modelo encontrou"
+Regressão,"Prever valor numérico contínuo (ex: preço, temperatura)"
+Target,Variável que queremos prever (variável dependente)
+Train/Test Split,Divisão dos dados em conjunto de treino e teste
+Underfitting,Modelo muito simples que não captura padrões
